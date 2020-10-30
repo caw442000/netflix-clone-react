@@ -2,6 +2,6 @@
 
 Tech Stack: 
 
-React|
+React.js
 
 
